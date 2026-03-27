@@ -30,13 +30,14 @@
   ###   ●	Close the doors of the 3d printer.
   ###   ●	Open the file from the USB storage and select the Print option.
 
-## Input:
-
 ### Output:
 
+<img width="1058" height="400" alt="image" src="https://github.com/user-attachments/assets/74078ea3-6bd1-4da5-84ed-1fa1f9fcc739" />
 
-### Name:
-### Register Number:
+
+
+### Name:PON SARAVANA PANDIAN B
+### Register Number:212225230207
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
